@@ -1,0 +1,73 @@
+        /* Estilos para o cabeçalho */
+        
+        #header_32135966 {
+            background-color: rgba(32, 107, 196, 0.05);
+            color: #206bc4;
+            border-color: #c7daf0;
+        }
+        
+        .centered-heading {
+            background-color: rgba(32, 107, 196, 0.05);
+            color: #206bc4;
+            text-align: center;
+            font-weight: bold;
+        }
+        
+        .card-title {
+            color: #333;
+            font-size: 20px;
+            margin: 0;
+        }
+        
+        .card-header .card-title {
+            position: relative;
+        }
+        
+        .card-header .card-title .fas.fa-coins {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        
+        .form-control {
+            display: block;
+            width: 50%;
+            padding: 0.4375rem 0.75rem;
+            font-size: 0.875rem;
+            font-weight: 400;
+            line-height: 1.4285714286;
+            color: inherit;
+            background-color: #fdfdfd;
+            background-clip: padding-box;
+            border: 1px solid #d9dbde;
+            appearance: none;
+            border-radius: 4px;
+            transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        }
+        
+        .container {
+            display: flex;
+        }
+        
+        .div1 {
+            width: 100%;
+        }
+        
+        .div2 {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            /* Ou a largura desejada */
+            height: 50vh;
+            /* Ou a altura desejada */
+        }
+        
+        .btn {
+            position: absolute;
+            right: 0;
+        }
+        
+        .me-2 {
+            margin-right: 6.5rem !important;
+        }

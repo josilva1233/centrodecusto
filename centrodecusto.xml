@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <name>Centro de Custo</name>
+   <key>centrodecusto</key>
+   <state>stable</state>
+   <logo>icon.png</logo>
+   <description>
+      <short>
+         Plugin para gerenciar centro de custos
+      </short>
+      <long>
+         Este plugin permite gerenciar centro de custos no GLPI
+      </long>
+   </description>
+   <homepage>https://github.com/seu-usuario/centrodecusto</homepage>
+   <authors>
+      <author>Seu Nome</author>
+   </authors>
+   <versions>
+      <version>
+         <num>1.0.0</num>
+         <compatibility>9.5</compatibility>
+      </version>
+   </versions>
+</root>
